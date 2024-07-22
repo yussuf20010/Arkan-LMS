@@ -1,7 +1,7 @@
 {
-    "app_id": "com.gvhti.app",
-    "appname": "gvhti Mobile",
-    "versioncode": 1,
+    "app_id": "com.Arkan.app",
+    "appname": "Akran Future Schools LMS",
+    "versioncode": 44010,
     "versionname": "1.0.0",
     "cache_update_frequency_usually": 420000,
     "cache_update_frequency_often": 1200000,
@@ -70,12 +70,12 @@
     "wsservice": "moodle_mobile_app",
     "demo_sites": {
         "student": {
-            "url": "https://gvhti.edu.sa/lms/",
+            "url": "https://arkanfutureschool.com/",
             "username": "student",
             "password": "moodle"
         },
         "teacher": {
-            "url": "https://gvhti.edu.sa/lms/",
+            "url": "https://arkanfutureschool.com/",
             "username": "teacher",
             "password": "moodle"
         }
@@ -87,13 +87,13 @@
         "high": 120
     },
     "customurlscheme": "moodlemobile",
-    "sites": [{"url":"https://gvhti.edu.sa/lms/"}],
+    "sites": [{"url":"https://arkanfutureschool.com/"}],
     "multisitesdisplay": "",
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
     "forcedefaultlanguage": false,
     "privacypolicy": "https://moodle.net/moodle-app-privacy/",
-    "notificoncolor": "#000080",
+    "notificoncolor": "#02bcdd",
     "enableanalytics": false,
     "enableonboarding": true,
     "forceColorScheme": "",
